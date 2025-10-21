@@ -1,17 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![ruiruizhang](https://img.shields.io/badge/ruiruizhang-github-blue?logo=github)](https://github.com/musktin)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is a PhD student at the School of Finance, Shanghai University of Finance and Economics.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: jr_zrr@163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+金融学博士(硕博连读), 上海财经大学, 2021—2026.\
+金融学学士, 上海理工大学, 2016—2020.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+金融市场, 行为金融, 量化投资.
 
